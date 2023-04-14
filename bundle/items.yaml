@@ -3,7 +3,7 @@ removeStrategy:
   items: NONE
 items:
 - kind: folder
-  displayName: template-jobs
+  displayName: Template Jobs
   name: template-jobs
   properties:
   - envVars: {}
